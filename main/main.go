@@ -1,5 +1,0 @@
-package urlshortener
-
-func main() {
-
-}
